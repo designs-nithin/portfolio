@@ -578,6 +578,7 @@ span {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    gap: 10px;
     min-height: 70px;
 }
 .custom-btn {
@@ -998,5 +999,6 @@ body {
     font-family: "Big Shoulders Text", sans-serif;
 
 }
+
 
 
